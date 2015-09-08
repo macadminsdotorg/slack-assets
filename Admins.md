@@ -1,4 +1,5 @@
 The MacAdmins team is composed of the following users:
+
 [adamcodega](https://macadmins.slack.com/team/adamcodega)
 
 [bruienne](https://macadmins.slack.com/team/bruienne)
