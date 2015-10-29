@@ -16,8 +16,6 @@ The MacAdmins team is composed of the following users:
 
 [kitzy](https://macadmins.slack.com/team/kitzy)
 
-[macgirl84](https://macadmins.slack.com/team/macgirl84)
-
 [macmule](https://macadmins.slack.com/team/macmule)
 
 [marcusransom](https://macadmins.slack.com/team/marcusransom)
