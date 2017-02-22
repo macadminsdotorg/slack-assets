@@ -10,7 +10,7 @@ The MacAdmins team is composed of the following users:
 
 [dials-mavis](https://macadmins.slack.com/team/dials-mavis)
 
-[emilyk](https://macadmins.slack.com/team/emilyk)
+[emily](https://macadmins.slack.com/team/emily)
 
 [ftiff](https://macadmins.slack.com/team/ftiff)
 
