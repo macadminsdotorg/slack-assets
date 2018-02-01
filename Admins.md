@@ -26,6 +26,8 @@ The MacAdmins team is composed of the following users:
 
 [mrowell](https://macadmins.slack.com/team/mrowell)
 
+[neilmartin83](https://macadmins.slack.com/team/neilmartin83)
+
 [quovadimus](https://macadmins.slack.com/team/quovadimus)
 
 [rtrouton](https://macadmins.slack.com/team/rtrouton)
