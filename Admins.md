@@ -4,6 +4,8 @@ The MacAdmins team is composed of the following users:
 
 [bruienne](https://macadmins.slack.com/team/bruienne)
 
+[carrienz](https://macadmins.slack.com/team/carrienz)
+
 [ccoy](https://macadmins.slack.com/team/ccoy)
 
 [dana](https://macadmins.slack.com/team/dana)
