@@ -1,4 +1,4 @@
-The MacAdmins team is composed of the following users:
+The MacAdmins Slack Admin team is composed of the following users:
 
 [adamcodega](https://macadmins.slack.com/team/adamcodega)
 
@@ -8,13 +8,13 @@ The MacAdmins team is composed of the following users:
 
 [dana](https://macadmins.slack.com/team/dana)
 
-[dials-mavis](https://macadmins.slack.com/team/dials-mavis)
-
 [emily](https://macadmins.slack.com/team/emily)
 
 [grahamgilbert](https://macadmins.slack.com/team/grahamgilbert)
 
 [kitzy](https://macadmins.slack.com/team/kitzy)
+
+[ljh](https://macadmins.slack.com/team/ljh)
 
 [macmule](https://macadmins.slack.com/team/macmule)
 
