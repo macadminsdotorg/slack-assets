@@ -12,10 +12,6 @@ The MacAdmins Slack Admin team is composed of the following users:
 
 [grahamgilbert](https://macadmins.slack.com/team/grahamgilbert)
 
-[kitzy](https://macadmins.slack.com/team/kitzy)
-
-[ljh](https://macadmins.slack.com/team/ljh)
-
 [macmule](https://macadmins.slack.com/team/macmule)
 
 [marcusransom](https://macadmins.slack.com/team/marcusransom)
@@ -27,3 +23,5 @@ The MacAdmins Slack Admin team is composed of the following users:
 [quovadimus](https://macadmins.slack.com/team/quovadimus)
 
 [rtrouton](https://macadmins.slack.com/team/rtrouton)
+
+[ryanmoon](https://macadmins.slack.com/team/ryanmoon)
