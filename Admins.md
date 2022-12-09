@@ -1,8 +1,4 @@
-The MacAdmins team is composed of the following users:
-
-[adamcodega](https://macadmins.slack.com/team/adamcodega)
-
-[bruienne](https://macadmins.slack.com/team/bruienne)
+The MacAdmins Slack Admin team is composed of the following users:
 
 [carrienz](https://macadmins.slack.com/team/carrienz)
 
@@ -10,17 +6,9 @@ The MacAdmins team is composed of the following users:
 
 [dana](https://macadmins.slack.com/team/dana)
 
-[dials-mavis](https://macadmins.slack.com/team/dials-mavis)
-
 [emily](https://macadmins.slack.com/team/emily)
 
-[ftiff](https://macadmins.slack.com/team/ftiff)
-
-[frogor](https://macadmins.slack.com/team/frogor)
-
 [grahamgilbert](https://macadmins.slack.com/team/grahamgilbert)
-
-[kitzy](https://macadmins.slack.com/team/kitzy)
 
 [macmule](https://macadmins.slack.com/team/macmule)
 
@@ -33,3 +21,5 @@ The MacAdmins team is composed of the following users:
 [quovadimus](https://macadmins.slack.com/team/quovadimus)
 
 [rtrouton](https://macadmins.slack.com/team/rtrouton)
+
+[ryanmoon](https://macadmins.slack.com/team/ryanmoon)
