@@ -1,8 +1,5 @@
 The MacAdmins Slack Admin team is composed of the following users:
 
-[carrienz](https://macadmins.slack.com/team/carrienz)
-
-[ccoy](https://macadmins.slack.com/team/ccoy)
 
 [dana](https://macadmins.slack.com/team/dana)
 
