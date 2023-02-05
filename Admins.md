@@ -5,8 +5,6 @@ The MacAdmins Slack Admin team is composed of the following users:
 
 [emily](https://macadmins.slack.com/team/emily)
 
-[grahamgilbert](https://macadmins.slack.com/team/grahamgilbert)
-
 [macmule](https://macadmins.slack.com/team/macmule)
 
 [marcusransom](https://macadmins.slack.com/team/marcusransom)
