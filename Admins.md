@@ -14,8 +14,6 @@ The MacAdmins Slack Admin team is composed of the following users:
 
 [marcusransom](https://macadmins.slack.com/team/marcusransom)
 
-[mrowell](https://macadmins.slack.com/team/mrowell)
-
 [neilmartin83](https://macadmins.slack.com/team/neilmartin83)
 
 [quovadimus](https://macadmins.slack.com/team/quovadimus)
