@@ -16,8 +16,6 @@ The MacAdmins Slack Admin team is composed of the following users:
 
 [neilmartin83](https://macadmins.slack.com/team/neilmartin83)
 
-[quovadimus](https://macadmins.slack.com/team/quovadimus)
-
 [ryanmoon](https://macadmins.slack.com/team/ryanmoon)
 
 [scriptingosx](https://macadmins.slack.com/team/scriptingosx)
