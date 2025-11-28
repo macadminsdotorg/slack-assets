@@ -10,8 +10,6 @@ The MacAdmins Slack Admin team is composed of the following users:
 
 [grahamrpugh](https://macadmins.slack.com/team/grahamrpugh)
 
-[macmule](https://macadmins.slack.com/team/macmule)
-
 [neilmartin83](https://macadmins.slack.com/team/neilmartin83)
 
 [ninxsoft](https://macadmins.slack.com/team/U061UGZ2Q)
