@@ -7,7 +7,7 @@ Feeds are grouped by the Slack channels they post into.
 
 This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 
-**Last Updated:** 2026-01-13
+**Last Updated:** 2026-03-26
 
 ---
 
@@ -61,6 +61,9 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 - **Jamf Blog**  
   http://www.jamf.com/blog/rss/
 
+- **jc0b.computer**  
+  http://jc0b.computer/index.xml
+
 - **krypted**  
   http://krypted.com/feed/
 
@@ -109,6 +112,9 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 - **Travelling Tech Guy**  
   https://travellingtechguy.eu/feed/
 
+- **t-lark.github.io**  
+  https://t-lark.github.io/index.xml
+
 - **News From Timo**  
   https://tperfitt.twocanoes.com/feed.xml
   
@@ -121,6 +127,9 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 ---
 
 ## #blog-feed-lite
+
+- **jc0b.computer**  
+  http://jc0b.computer/index.xml
 
 - **mike solin's blog**  
   https://mikesolin.com/feed/
