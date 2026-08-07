@@ -1,21 +1,23 @@
 The MacAdmins Slack Admin team is composed of the following users:
 
-[arekdreyer](https://macadmins.slack.com/team/arekdreyer)
-
-[Betsy](https://macadmins.slack.com/team/U01BJH5MU2Z)
-
-[ClassicII](https://macadmins.slack.com/team/ClassicII)
-
-[Daz_Wallace](https://macadmins.slack.com/team/U056NHBLD)
-
-[grahamrpugh](https://macadmins.slack.com/team/grahamrpugh)
-
-[neilmartin83](https://macadmins.slack.com/team/neilmartin83)
-
-[ninxsoft](https://macadmins.slack.com/team/U061UGZ2Q)
-
-[Pico](https://macadmins.slack.com/team/U01U46XLCJG)
-
-[rebelati](https://macadmins.slack.com/team/U7M0FH2KX)
-
-[scriptingosx](https://macadmins.slack.com/team/scriptingosx)
+- [Andrea V](https://macadmins.slack.com/team/U0PM21Z89)
+- [arekdreyer](https://macadmins.slack.com/team/U050KRQ60)
+- [Betsy](https://macadmins.slack.com/team/U01BJH5MU2Z)
+- [catmcd](https://macadmins.slack.com/team/U6GA3VC4B)
+- [ClassicII](https://macadmins.slack.com/team/U053ABRHJ)
+- [David Starr](https://macadmins.slack.com/team/U05RJUB8C3Z)
+- [Daz_Wallace](https://macadmins.slack.com/team/U056NHBLD)
+- [grahamrpugh](https://macadmins.slack.com/team/U060FDFPY)
+- [jc0b](https://macadmins.slack.com/team/UNWME20QP)
+- [jp](https://macadmins.slack.com/team/U584K35FT)
+- [Karthikeyan](https://macadmins.slack.com/team/U0B6LBT7U)
+- [MacLemur](https://macadmins.slack.com/team/U0AUY9HU6)
+- [MusicCityMac](https://macadmins.slack.com/team/UE6GSKJKE)
+- [neilmartin83](https://macadmins.slack.com/team/U0568C6GD)
+- [ninxsoft](https://macadmins.slack.com/team/U061UGZ2Q)
+- [Pico](https://macadmins.slack.com/team/U01U46XLCJG)
+- [Rebekah D](https://macadmins.slack.com/team/U056V1Z4UGY)
+- [rebelati](https://macadmins.slack.com/team/U7M0FH2KX)
+- [Ricky](https://macadmins.slack.com/team/UBX94ESNA)
+- [scriptingosx](https://macadmins.slack.com/team/U06R6V15J)
+- [Tony Young](https://macadmins.slack.com/team/UF7LS77MX)
