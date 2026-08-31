@@ -7,7 +7,6 @@ The MacAdmins Slack Admin team is composed of the following users:
 - [ClassicII](https://macadmins.slack.com/team/U053ABRHJ)
 - [David Starr](https://macadmins.slack.com/team/U05RJUB8C3Z)
 - [Daz_Wallace](https://macadmins.slack.com/team/U056NHBLD)
-- [grahamrpugh](https://macadmins.slack.com/team/U060FDFPY)
 - [jc0b](https://macadmins.slack.com/team/UNWME20QP)
 - [jp](https://macadmins.slack.com/team/U584K35FT)
 - [Karthikeyan](https://macadmins.slack.com/team/U0B6LBT7U)
